@@ -1,4 +1,4 @@
-# PN-RFE2
+# PN-RFE<sub>2</sub>
 The raw refined dataset in PN-RFE2.
 
 ## Statement
