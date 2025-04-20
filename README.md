@@ -1,5 +1,5 @@
-# PN-RFE<sub>2</sub>
-The raw refined dataset in PN-RFE2.
+# PN-RFe<sub>2</sub>
+The raw refined dataset in PN-RFe<sub>2</sub>.
 
 ## Statement
 This dataset is a refined version from *Optimizing magnetoelastic properties by machine learning and high-throughput micromagnetic simulation* (https://doi.org/10.1007/s12598-023-02551-2)
