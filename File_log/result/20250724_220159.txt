@@ -1,0 +1,66 @@
+# Name: log
+# Time: 20250724_220159
+# Auther: "Kecilimu"
+
+device: cuda
+	File 'File_log/result/20250724_220159.txt' noted successfully.
+# Name: log
+# Time: 20250724_220159
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250724_220159.txt' noted successfully.
+# Name: log
+# Time: 20250724_220159
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250724_220159.txt' noted successfully.
+# Name: log
+# Time: 20250724_220159
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250724_220159.txt' noted successfully.
+# Name: log
+# Time: 20250724_220206
+# Auther: "Kecilimu"
+
+training finished
+	File 'File_log/result/20250724_220159.txt' noted successfully.
+# Name: log
+# Time: 20250724_220206
+# Auther: "Kecilimu"
+
+Model is saved successfully.
+	File 'File_log/result/20250724_220159.txt' noted successfully.
+# Name: log
+# Time: 20250724_220206
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250724_220159/total_result.pkl
+	File 'File_log/result/20250724_220159.txt' noted successfully.
+# Name: log
+# Time: 20250724_220206
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250724_220159/total_losss.pkl
+	File 'File_log/result/20250724_220159.txt' noted successfully.
+# Name: log
+# Time: 20250724_220206
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250724_220159/hparams.pkl
+	File 'File_log/result/20250724_220159.txt' noted successfully.
+# Name: log
+# Time: 20250724_220206
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250724_220159/combined_result.pkl
+	File 'File_log/result/20250724_220159.txt' noted successfully.
+# Name: log
+# Time: 20250724_220207
+# Auther: "Kecilimu"
+
+combine_results saved
+	File 'File_log/result/20250724_220159.txt' noted successfully.

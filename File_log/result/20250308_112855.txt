@@ -1,0 +1,2586 @@
+# Name: log
+# Time: 20250308_112855
+# Auther: "Kecilimu"
+
+device: cuda
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112855
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112855
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112855
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112909
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/1data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112909
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112909
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112909
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112909
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112909
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112909
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112909
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112909
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112909
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112910
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112910
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112910
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112922
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/5data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112922
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112922
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112922
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112935
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112935
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112935
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112948
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112948
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112948
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112948
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112948
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112948
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112948
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112948
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112948
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112948
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112948
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112948
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112949
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112949
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112949
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112949
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112949
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112949
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112949
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112949
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112949
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112950
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112950
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112950
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112950
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112950
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112950
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112951
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112951
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112951
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112951
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112951
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112951
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112952
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112952
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_112952
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113004
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113004
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113004
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113017
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113017
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113017
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113017
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113017
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113017
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113018
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113018
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113018
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113030
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113030
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113030
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113031
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113031
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113031
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113043
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113043
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113043
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113056
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/26data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113056
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113056
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113056
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113109
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/27data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113109
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113109
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113109
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113109
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113109
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113109
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113110
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113110
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113110
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113123
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/30data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113123
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113123
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113123
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113123
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113123
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113123
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113123
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113124
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113124
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113124
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113124
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113124
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113136
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/34data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113136
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113136
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113136
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113149
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113149
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113149
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113150
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113150
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113150
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113203
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113203
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113203
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113215
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113215
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113215
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113216
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113216
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113216
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113216
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113216
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113216
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113216
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113216
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113216
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113217
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113217
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113217
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113229
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113229
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113229
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113229
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113229
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113229
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113230
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113230
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113230
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113230
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113230
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113230
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113231
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113231
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113231
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113244
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/48data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113244
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113244
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113244
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113244
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113244
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113244
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113245
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113245
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113245
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113257
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113257
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113257
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113257
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113257
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113257
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113257
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113257
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113257
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113258
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113259
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113259
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113259
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113259
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113259
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113312
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113312
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113312
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113312
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113312
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113312
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113312
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113312
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113312
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113312
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113312
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113312
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113313
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113313
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113313
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113327
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113327
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113327
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113328
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113328
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113328
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113343
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/68data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113343
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113343
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113343
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113357
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/69data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113357
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113357
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113357
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113411
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/70data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113411
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113411
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113411
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113411
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113411
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113411
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113412
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113412
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113412
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113426
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113426
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113426
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113427
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113427
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113427
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113427
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113427
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113427
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113427
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113427
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113427
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113427
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113427
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113427
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113428
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113428
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113428
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113428
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113428
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113428
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113429
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113429
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113429
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113429
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113429
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113429
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113443
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113443
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113443
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113457
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/83data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113457
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113457
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113457
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113511
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/84data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113511
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113511
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113511
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113511
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113511
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113511
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113512
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113512
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113512
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113512
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113512
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113512
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113512
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113512
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113512
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113513
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113513
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113513
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113527
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/90data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113527
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113527
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113527
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113541
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113541
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113541
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113541
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113541
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113541
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113542
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113542
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113542
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113557
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113557
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113557
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113612
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113612
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113612
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113612
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113612
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113612
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113613
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113613
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113613
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113614
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113614
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113614
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113614
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113614
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113614
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113614
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113614
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113614
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113614
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113614
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113614
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113615
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113615
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113615
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113615
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113615
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113615
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113616
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113616
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113616
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113631
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/105data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113631
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113631
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113631
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113631
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113631
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113631
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113631
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113631
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113631
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113631
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113631
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113631
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113632
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113632
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113632
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113647
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113647
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113647
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113702
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113702
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113702
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113703
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113703
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113703
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113704
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113704
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113704
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113705
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113705
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113705
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113721
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/115data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113721
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113721
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113721
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113737
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113737
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113737
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113737
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113737
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113737
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113752
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/118data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113752
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113752
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113752
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113752
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113752
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113752
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113752
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113752
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113752
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113752
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113752
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113752
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113753
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113753
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113753
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113807
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113807
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113807
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113822
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/124data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113822
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113822
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113822
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113837
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113837
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113837
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113838
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113838
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113838
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113838
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113838
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113838
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113839
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113839
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113839
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113853
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113853
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113853
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113907
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113907
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113907
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113907
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113907
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113907
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113908
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113908
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113908
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113908
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113908
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113908
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113909
+# Auther: "Kecilimu"
+
+data loaded
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113909
+# Auther: "Kecilimu"
+
+model created
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113909
+# Auther: "Kecilimu"
+
+start training
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113922
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/135data.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113922
+# Auther: "Kecilimu"
+
+training finished
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113922
+# Auther: "Kecilimu"
+
+Model is saved successfully.
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113922
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/total_result.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113922
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/total_losss.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113922
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/hparams.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113922
+# Auther: "Kecilimu"
+
+	Save File_log/result/20250308_112855/combined_result.pkl
+	File 'File_log/result/20250308_112855.txt' noted successfully.
+# Name: log
+# Time: 20250308_113922
+# Auther: "Kecilimu"
+
+combine_results saved
+	File 'File_log/result/20250308_112855.txt' noted successfully.
