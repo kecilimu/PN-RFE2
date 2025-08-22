@@ -17,12 +17,13 @@ from File_log import log as lg
 from File_log import file_create as fc
 from train_model import train_model, val, train_ML, transform_data
 
-def set_seed(seed=105):
-    torch.manual_seed(seed)
-    torch.cuda.manual_seed_all(seed)
-    np.random.seed(seed)
-    torch.backends.cudnn.deterministic = True
-    torch.backends.cudnn.benchmark = False
+# for specify structure test with same seed.
+# def set_seed(seed=105):
+#     torch.manual_seed(seed)
+#     torch.cuda.manual_seed_all(seed)
+#     np.random.seed(seed)
+#     torch.backends.cudnn.deterministic = True
+#     torch.backends.cudnn.benchmark = False
 
 
 if __name__ == '__main__':
@@ -76,3 +77,4 @@ if __name__ == '__main__':
     lg_i.img_write(fig1, result_path + utils.result_suffix[4])
     lg_i.img_write(fig2, result_path + "2" + utils.result_suffix[4])
     lg_i.log_write('combine_results saved')
+
