@@ -76,13 +76,19 @@ def train_model(model,
 def test_model(model, dataloader, criterion):
     model.eval()
     test_loss = 0
+    preds_list = []
+    labs_list = []
     with torch.no_grad():
         for data, label in dataloader:
             label = torch.unsqueeze(label, 1)
             out, _ = model(data)
             loss = criterion(out, label)
             test_loss += loss.item()
-            rmse, mae, r2 = describe(out, label)
+            preds_list.append(out)
+            labs_list.append(label)
+        preds = torch.cat(preds_list, dim=0)
+        labs = torch.cat(labs_list, dim=0)
+        rmse, mae, r2 = describe(preds, labs)
     test_loss /= len(dataloader)
     return test_loss, rmse, mae, r2
 
@@ -136,11 +142,17 @@ def plot_describe(des):
 
 def val(model, dataloader):
     model.eval()
+    preds_list = []
+    labs_list = []
     with torch.no_grad():
         for data, lab in dataloader:
             lab = torch.unsqueeze(lab, 1)
             output, _ = model(data)
-            rmse, mae, r2 = describe(output, lab)
+            preds_list.append(output)
+            labs_list.append(lab)
+        preds = torch.cat(preds_list, dim=0)
+        labs = torch.cat(labs_list, dim=0)
+        rmse, mae, r2 = describe(preds, labs)
     return rmse, mae, r2
 
 def get_feature(model, data):
@@ -179,4 +191,5 @@ def evluation_ML(model, x, y):
     rmse = root_mean_squared_error(y, y_p)
     mae = mean_absolute_error(y, y_p)
     r2 = r2_score(y, y_p)
+
     return rmse, mae, r2
